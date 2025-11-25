@@ -1,0 +1,31 @@
+title: "Bioinformatics Research Support Service @ Department of Bacteriology"
+baseurl: "/computing"
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+nav_sort: case_insensitive
+search_enabled: true
+exclude:
+  - README.md
+aux_links:
+  "GitHub Repository":
+    - "//github.com/UW-Madison-Bacteriology-Bioinformatics/computing"
+
+nav_enabled: true
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
